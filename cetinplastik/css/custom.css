@@ -1,0 +1,17 @@
+* {margin: 0; padding: 0;}
+
+.fixscroll {transform: translate3d(0,0,0);}
+
+img {width: 100%; height: 100%;}
+
+.massiveImage {
+    height: 100vh;
+    width: 400vw;
+    background-image: url(../img/banner1.jpg);
+    background-size: cover;
+    background-position: center;
+  }
+  
+  .spacer {
+    height: 100vh;
+  }
